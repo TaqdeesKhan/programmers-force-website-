@@ -1,0 +1,134 @@
+h1{
+    color: rgb(243, 243, 243);
+    font-size: 2rem;
+}
+.imag{
+    background-image: url('tr.webp');
+}
+.choose{
+    
+    width: 180%;
+    overflow-x: scroll;
+
+}
+.cards{
+    display: flex;
+    width: 100%;
+    
+}
+.cdone{
+    padding: 22px;
+    margin: 14px;
+    height: 270px;
+    width: 230px; 
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cdtwo{
+    padding: 22px;
+    margin: 14px;
+    height: 270px;
+    width: 230px; 
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cdthree{
+    padding: 22px;
+    margin: 14px;
+    height: 270px;
+    width: 230px; 
+     background-color: white;
+     border-radius: 30px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     
+}
+.cdfour{
+    padding: 22px;
+    margin: 14px;
+    height: 270px;
+    width: 230px;  
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cdfive{
+    padding: 22px;
+    margin: 14px;
+    height: 270px;
+    width: 230px; 
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cdsix{
+    padding: 22px;
+    margin: 14px;
+    height: 270px;
+    width: 230px;  
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.bulrimg{
+    background-image: url('bulr.jpg');
+}
+.p{
+    display:flex ;
+    color: white;
+    
+    
+}
+.slide{
+    
+    display: flex;
+}
+.sp{
+    display: flex; 
+    padding: 22px;
+    margin: 14px;
+    height: 70px;
+    width: 270px;  
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+.sayone{
+    padding: 22px;
+    margin: 14px;
+    height: 370px;
+    width: 310px; 
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.saytwo{
+    padding: 22px;
+    margin: 14px;
+    height: 370px;
+    width: 310px; 
+    background-color: white;
+    border-radius: 10px;
+   
+}
+.saythree{
+    padding: 22px;
+    margin: 14px;
+    height: 370px;
+    width: 310px; 
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.question p{
+    padding: 8px;
+   
+    height: 30px;
+    width: 95%; 
+    background-color: white;
+    border-radius: 5px; 
+    
+    border: 1px solid blue;
+}

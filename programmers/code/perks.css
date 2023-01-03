@@ -1,0 +1,63 @@
+.video{
+    display: flex;
+    padding: 148px;
+}
+
+.cardone{
+    /* padding-top: 12px; */
+    /* margin-top: 12px; */
+    padding: 32px;
+    margin: 12px;
+    height: 190px;
+    width: 360px;
+    display: flex;
+    /* margin: 4px; */
+    border: 1px solid rgb(184, 184, 230);
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+.cards .cardone:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+/* .mainfooterdiv{
+    padding: 22px;
+    margin: 47px;
+    
+    /* margin-left: 12px; */
+/* } */ 
+.f1{
+    padding-left: 98px;
+    /* margin: 12px; */
+   /* row-gap: 4px; */
+}
+
+.f1 h3{
+    color: blue;
+}
+.f1 p{
+    color: rgb(134, 134, 226);
+    line-height:180%;
+   
+}
+.ficon{
+    padding: 4px;
+}
+.f2{
+    padding-left: 98px;
+    /* margin: 12px; */
+   /* row-gap: 4px; */
+}
+.f2 h3{
+    color: blue;
+}
+
+.f2 h5{
+    color: blue;
+}
+.f2 p{
+    color: rgb(134, 134, 226);
+    line-height:180%;
+   
+}
+.flink a:hover{
+color: #000;
+}

@@ -1,0 +1,37 @@
+ body{
+    /* max-width: 200px;
+  margin: auto; */
+  padding-left:200px;
+} 
+.mcards{
+    display: flex;
+    padding-top: 42px;
+    /* padding-left: 12px; */
+}
+.cards{
+    /* padding-left: 12px; */
+    /* margin-top: 22px; */
+    width: 300px;
+    height: 400px;
+    border: 1 solid black;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 12px;
+
+}
+.overtext{
+    padding-top: 18px;
+    padding-left: 24px;
+    
+}
+.ptext{
+    font-size: 14px;
+}
+.image img{
+    height: 150px;
+    width: 300px;
+    border-radius:15px 15px 0px 0px;
+}
+img:hover{
+    transform: scale(1.5);
+}
